@@ -1,4 +1,4 @@
-#SOLVED
+# SOLVED
 I have used X64 JDK,
 after switch to amd64 JDK all work's fine! (like this one: 11.0.14+9-LTS (arm64) "BellSoft")
 
