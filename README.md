@@ -1,6 +1,6 @@
 # SOLVED
-I have used X64 JDK,
-after switch to amd64 JDK all work's fine! (like this one: 11.0.14+9-LTS (arm64) "BellSoft")
+I haved been used X64 JDK, and it have problems on M1 Mac's;  
+After switch to amd64 JDK all work's fine! (like this one: 11.0.14+9-LTS (arm64) "BellSoft")
 
 ### Reproduce bug with iosSimulatorArm64Test skipped
 Issue: https://youtrack.jetbrains.com/issue/KT-53702/gradle-task-iosSimulatorArm64Test-skipped  
