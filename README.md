@@ -1,5 +1,5 @@
-### Reproduce bug 
-
+### Reproduce bug
+Reproduced on Apple Silicone Mac's  
 I made simple project from KMM template.  
 And add FailedTest. Expect, what test task will fail.  
 
