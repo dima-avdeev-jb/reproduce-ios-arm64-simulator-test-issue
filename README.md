@@ -1,4 +1,6 @@
 ### Reproduce bug with iosSimulatorArm64Test skipped
+Issue: https://youtrack.jetbrains.com/issue/KT-53702/gradle-task-iosSimulatorArm64Test-skipped  
+
 Reproduced on Apple Silicone Mac's  
 I made simple project from KMM template.  
 And add FailedTest. Expect, what test task will fail.  
